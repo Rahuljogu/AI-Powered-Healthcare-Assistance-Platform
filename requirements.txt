@@ -3,3 +3,4 @@ mysqlclient
 requests
 python-dotenv
 google-generativeai
+gunicorn
